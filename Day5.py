@@ -1,5 +1,5 @@
 # 1. 필수 라이브러리 설치
-# !pip install streamlit langchain openai tiktoken
+!pip install streamlit langchain openai tiktoken
 
 
 # 2. 라이브러리 임포트
